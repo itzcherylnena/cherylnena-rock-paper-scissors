@@ -1,3 +1,4 @@
-# cherylnena-rock-paper-scissors-game
-my game ako gahimo ani hahahha!!!
+# cherylnena-rock-paper-scissors
+its my second commit kuno hay 
+
 
