@@ -61,11 +61,11 @@ h1 {
 }
 
 .win {
-  color: #00ffae;
+  color:palevioletred;
 }
 
 .lose {
-  color: #ff4d6d;
+  color:#333;
 }
 
 .tie {
